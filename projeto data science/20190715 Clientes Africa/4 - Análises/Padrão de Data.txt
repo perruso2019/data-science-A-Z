@@ -1,0 +1,4 @@
+Alterada config. regionais Windows para Ingles(EUA) por que o arquivo
+está com número formatado para esta região e depois não fica legal
+mm/dd/yyyy
+8/11/1991
